@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  width:1920px;
+  overflow:hidden;
+  height:1080px;
+  padding: 0;
+  font-family: sans-serif;
+}
+.world-map {
+  width:4500px;
+  height:auto;
+  z-index:100;
+}
